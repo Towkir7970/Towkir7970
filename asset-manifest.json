@@ -1,33 +1,28 @@
 {
   "files": {
-    "main.css": "/Towkir7970/static/css/main.b427e4c2.css",
-    "main.js": "/Towkir7970/static/js/main.4822a374.js",
+    "main.css": "/Towkir7970/static/css/main.156c4bb5.css",
+    "main.js": "/Towkir7970/static/js/main.8839fc1d.js",
     "static/media/sbs-homepage.png": "/Towkir7970/static/media/sbs-homepage.f34f2405712db93eca1c.png",
     "static/media/aerofighters-homepage.png": "/Towkir7970/static/media/aerofighters-homepage.ecb6938df4ad5c50d4d0.png",
     "static/media/quiz-app-homepage.png": "/Towkir7970/static/media/quiz-app-homepage.b6b4d618db1540721dbc.png",
     "static/media/weather-app-homepage.png": "/Towkir7970/static/media/weather-app-homepage.232ab9d4692676e1b936.png",
     "static/media/sbsregistration-homepage.png": "/Towkir7970/static/media/sbsregistration-homepage.ba30597800b3b6a07fb6.png",
     "static/media/Burger-Builder-homepage.png": "/Towkir7970/static/media/Burger-Builder-homepage.12125633572e78361d50.png",
-    "static/media/bootstrap.png": "/Towkir7970/static/media/bootstrap.d3c6c9c648e4fde95cfb.png",
     "static/media/react.png": "/Towkir7970/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Towkir7970/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/Towkir7970/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/python.png": "/Towkir7970/static/media/python.fd803ce854b62eefafb5.png",
     "static/media/php.png": "/Towkir7970/static/media/php.17acba892e780582c901.png",
-    "static/media/mysql.png": "/Towkir7970/static/media/mysql.77145c5a95012575c74f.png",
-    "static/media/tailwind.png": "/Towkir7970/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/firebase.png": "/Towkir7970/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/nextjs.png": "/Towkir7970/static/media/nextjs.c9e32569c725ed58e30f.png",
     "static/media/light2.png": "/Towkir7970/static/media/light2.b201624c33fec4084ad6.png",
     "static/media/logov4.png": "/Towkir7970/static/media/logov4.58a42b1d95abc73d0bcb.png",
     "static/media/logov3.png": "/Towkir7970/static/media/logov3.6d962996f60fe6471494.png",
     "static/media/javascript.png": "/Towkir7970/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Towkir7970/index.html",
-    "main.b427e4c2.css.map": "/Towkir7970/static/css/main.b427e4c2.css.map",
-    "main.4822a374.js.map": "/Towkir7970/static/js/main.4822a374.js.map"
+    "main.156c4bb5.css.map": "/Towkir7970/static/css/main.156c4bb5.css.map",
+    "main.8839fc1d.js.map": "/Towkir7970/static/js/main.8839fc1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b427e4c2.css",
-    "static/js/main.4822a374.js"
+    "static/css/main.156c4bb5.css",
+    "static/js/main.8839fc1d.js"
   ]
 }
