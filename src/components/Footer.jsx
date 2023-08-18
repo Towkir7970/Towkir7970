@@ -60,7 +60,7 @@ const Footer = () => {
       {/* COPYRIGHT */}
       <div className="pb-4 text-center font-bold text-gray-300 dark:text-[#AC3B61]">
         © 2023 Copyright:
-        <a className="ml-2" href="https://tailwind-elements.com/">
+        <a className="ml-2" href="https://towkir7970.github.io/Towkir7970/">
           <span className="ml-2">Towkir Ahmed</span>
         </a>
       </div>

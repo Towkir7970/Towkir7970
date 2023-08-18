@@ -4,7 +4,7 @@ const Research = () => {
   return (
     <div
       name="research"
-      className="w-full h-screen bg-[#0a192f] dark:bg-[#EEE2DC] text-gray-300 dark:text-[#123C69]"
+      className="w-full h-screen bg-[#0a192f] dark:bg-[#EEE2DC] text-gray-300 dark:text-[#123C69] add-padding"
     >
       <div className="flex flex-col justify-center items-center w-full h-full">
         <p className="text-4xl font-bold inline border-b-4 border-[#4ADE80] dark:border-[#AC3B61]">

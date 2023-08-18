@@ -28,3 +28,9 @@
     hsla(242, 74%, 61%, 0.8)
   ) !important;
 }
+
+@media only screen and (max-width: 600px) {
+  .add-padding {
+    padding-top: 300px;
+  }
+}

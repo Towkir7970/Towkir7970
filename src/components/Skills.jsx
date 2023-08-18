@@ -1,17 +1,11 @@
 import React from "react";
 
-import Bootstrap from "../assets/bootstrap.png";
-import fireBase from "../assets/firebase.png";
 import JavaScript from "../assets/javascript.png";
-import Keras from "../assets/keras.png";
-import Mongo from "../assets/mongo.png";
-import MySQL from "../assets/mysql.png";
 import NextJs from "../assets/nextjs.png";
 import NodeJs from "../assets/node.png";
 import PHP from "../assets/php.png";
 import Python from "../assets/python.png";
 import ReactImg from "../assets/react.png";
-import Tailwind from "../assets/tailwind.png";
 
 const Skills = () => {
   return (
@@ -46,36 +40,12 @@ const Skills = () => {
             <p className="my-4">NextJs</p>
           </div>
           <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={fireBase} alt="FireBase" />
-            <p className="my-4">FireBase</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={MySQL} alt="MySQL" />
-            <p className="my-4">MySQL</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Mongo} alt="Mongo" />
-            <p className="my-4">Mongo</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={PHP} alt="PHP" />
             <p className="my-4">PHP</p>
           </div>
           <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Python} alt="Python" />
             <p className="my-4">Python</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Keras} alt="Keras" />
-            <p className="my-4">Keras</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Tailwind} alt="Tailwind" />
-            <p className="my-4">Tailwind</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] dark:shadow-[#EEE2DC] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Bootstrap} alt="Bootstrap" />
-            <p className="my-4">Bootstrap</p>
           </div>
         </div>
       </div>

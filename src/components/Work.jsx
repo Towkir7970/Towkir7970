@@ -12,7 +12,7 @@ const Work = () => {
       name="work"
       className="w-full md:h-screen text-gray-300 dark:text-[#123C69] bg-[#0a192f] dark:bg-[#EEE2DC]"
     >
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full add-padding -z-10">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#4ADE80] dark:border-[#AC3B61]">
             Work
@@ -69,7 +69,7 @@ const Work = () => {
                   rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
