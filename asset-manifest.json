@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Towkir7970/static/css/main.156c4bb5.css",
+    "main.css": "/Towkir7970/static/css/main.0917efad.css",
     "main.js": "/Towkir7970/static/js/main.d99fef2b.js",
     "static/media/sbs-homepage.png": "/Towkir7970/static/media/sbs-homepage.f34f2405712db93eca1c.png",
     "static/media/aerofighters-homepage.png": "/Towkir7970/static/media/aerofighters-homepage.ecb6938df4ad5c50d4d0.png",
@@ -18,11 +18,11 @@
     "static/media/logov3.png": "/Towkir7970/static/media/logov3.6d962996f60fe6471494.png",
     "static/media/javascript.png": "/Towkir7970/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Towkir7970/index.html",
-    "main.156c4bb5.css.map": "/Towkir7970/static/css/main.156c4bb5.css.map",
+    "main.0917efad.css.map": "/Towkir7970/static/css/main.0917efad.css.map",
     "main.d99fef2b.js.map": "/Towkir7970/static/js/main.d99fef2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.156c4bb5.css",
+    "static/css/main.0917efad.css",
     "static/js/main.d99fef2b.js"
   ]
 }
