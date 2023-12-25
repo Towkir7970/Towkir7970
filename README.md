@@ -14,7 +14,7 @@ I'm Towkir Ahmed, a passionate developer and creative mind who loves to build am
 Here are some of the technologies and tools I love working with:
 
 - **Languages**: JavaScript (Node.js), Python, C/C++, Java
-- **Frontend**: React, Sass, Tailwind CSS
+- **Frontend**: React, Sass, Tailwind CSS, NextJS
 - **Backend**: Express.js, Flask, Django
 - **Database**: MongoDB, PostgreSQL, MySQL, MSSQL
 - **Tools**: Git, VS Code, Docker
